@@ -1,0 +1,25 @@
+{
+    "name": "sermodigital/gravity-forms-duplicate-feeds",
+    "description": "Duplicate feeds when you duplicate a form",
+    "keywords": [
+        "wordpress",
+        "gravity forms",
+        "feeds"
+    ],
+    "homepage": "https://github.com/SermoDigital/gravity-forms-duplicate-feeds",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Justin Lettenmair",
+            "email": "justin@sermodigital.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "files": [
+            "gravity-forms-duplicate-feeds.php"
+        ]
+    }
+}
